@@ -14,7 +14,7 @@ Networking: Connecting with other developers, AI enthusiasts, and industry profe
 
 Problem Solving: Solving complex challenges is a passion of mine. Whether it's through creative coding or leveraging machine learning, I enjoy designing solutions that matter.
 
-Technologies I Work With:
+.) Technologies I Work With:
 
 MERN Stack (MongoDB, Express, React, Node) and Nextjs
 
