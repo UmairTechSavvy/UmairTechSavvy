@@ -31,7 +31,7 @@ LinkedIn: www.linkedin.com/in/umair-hasan-0688aa2a3
 
 Email: umairhasanumair12@gmail.com
 
-Let’s collaborate and create something amazing that drives positive change in the world of technology! 🚀🌟
+Let’s collaborate and create something amazing that drives positive change in the world of technology! 
 
 Looking forward to connecting!
 
