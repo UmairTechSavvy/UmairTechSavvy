@@ -1,38 +1,31 @@
-Hi there! I'm Muhammad Umair Hasan, a Web and AI Developer with a passion for AI, automation, and cutting-edge technologies!
+Hi there! 👋 I'm Muhammad Umair Hasan
 
-Welcome to my GitHub profile! Here, you'll find a collection of projects reflecting my journey as a Web and AI developer. I thrive on collaboration and problem-solving, and I love creating innovative solutions that make a real-world impact.
+I’m an AI and Machine Learning Developer passionate about building intelligent systems, automations, and cutting-edge technology solutions. While I have a background in web development, my main focus now is AI, ML, and deep learning, creating applications that can learn, adapt, and solve real-world problems.
 
-.) About Me:
-I specialize in building full-stack applications using the MERN stack and NEXT while continuously expanding my skill set to stay ahead of the curve in modern technology. My passion for development extends to AI automation with n8n, exploring the potential of LLMs (Large Language Models), and diving into machine learning for smarter solutions.
+Welcome to my GitHub! Here, you’ll find projects that reflect my journey in AI, ML, and automation, as well as my love for problem-solving, experimentation, and collaboration.
 
-I thrive in environments where I can use my problem-solving skills to tackle challenges and build effective solutions. Learning new technologies and embracing the latest trends in AI, automation, and ML is at the core of my professional journey.
+About Me
 
-.) What I Love:
-Collaboration: I believe in the power of teamwork and the synergies that come from working with diverse minds. I'm always open to collaboration and enjoy working in dynamic, cross-functional teams.
+I enjoy working with AI and Machine Learning using tools and frameworks like:
 
-Networking: Connecting with other developers, AI enthusiasts, and industry professionals is something I deeply value. I’m always keen to exchange ideas, learn, and build meaningful relationships.
+Scikit-learn for classical ML
+TensorFlow & Keras for deep learning
+PyTorch for research and experimentation
+SpaCy for NLP tasks
 
-Problem Solving: Solving complex challenges is a passion of mine. Whether it's through creative coding or leveraging machine learning, I enjoy designing solutions that matter.
+I also have experience in full-stack development with the MERN stack, which comes in handy when integrating AI solutions into web applications.
 
-.) Technologies I Work With:
+I’m constantly exploring new technologies, learning about LLMs, AI automation, and ways to make applications smarter and more efficient.
 
-MERN Stack (MongoDB, Express, React, Node) and Nextjs
+What I Value
+Collaboration: I love working with other developers and learning from different perspectives.
+Problem-Solving: Tackling complex challenges and turning them into working solutions excites me.
+Continuous Learning: AI and ML are constantly evolving, and I enjoy staying up-to-date and experimenting with new ideas.
+Let’s Connect
 
-Tailwind CSS and ShadCN UI for sleek, responsive front-end designs
-
-AI Automation using n8n for streamlining workflows
-
-Machine Learning and Large Language Models (LLMs) for advanced data-driven insights and applications
-
-Let's Connect
-I’m always looking to expand my network and connect with fellow developers, tech enthusiasts, and industry professionals. Whether it’s discussing the latest AI trends, sharing project ideas, or just having a friendly chat, feel free to reach out!
+I’m always open to connecting with fellow developers, AI enthusiasts, or anyone interested in tech. Whether it’s sharing ideas, collaborating on projects, or just having a chat, feel free to reach out!
 
 LinkedIn: www.linkedin.com/in/umair-hasan-0688aa2a3
-
 Email: umairhasanumair12@gmail.com
 
-Let’s collaborate and create something amazing that drives positive change in the world of technology! 
-
-Looking forward to connecting!
-
-Best regards, Muhammad Umair Hasan
+Let’s create something impactful together!
